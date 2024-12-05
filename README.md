@@ -4,6 +4,7 @@
 - This is version 4.0 of the project. Versions 3, 2 and 1 of the project was done previously .
 - Project Owner (PO): Prof. Dr. Karsten Weronek, coordinated with Dassault Systèmes.
 - Master project for High Integrity  Systems at The Frankfurt University of Applied Sciences
+- Project data is not allowed for public eye for privacy!
 
 ## **Project background / Introduction**
 
